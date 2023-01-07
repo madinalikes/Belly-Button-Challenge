@@ -1,5 +1,8 @@
 # Belly-Button-Challenge
 
+<img width="573" alt="image" src="https://user-images.githubusercontent.com/111404552/211166335-37c828f1-4ac2-4265-9280-9ef0c6850b3a.png">
+
+
 ## **Background**
 
 In this assignment, an interactive dashboard was built to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels in JSON format.

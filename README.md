@@ -13,7 +13,6 @@ Demographics information is dynamically populated based upon a user-selected tes
 
 All CSS, JS and images required are under the static folder. The main HTML file index.html is in the root folder of the Github repo.
 
-The dashboard can be viewed here: [Belly Button Diversity Dashboard](http://127.0.0.1:5500/index.html)
 
 ## **Plotly**
 ---
